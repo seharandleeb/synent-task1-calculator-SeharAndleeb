@@ -4,7 +4,7 @@ A desktop calculator built with Python and Tkinter. Dark-themed, keyboard-suppor
 
 ## Preview
 
-> Run the app to see the dark UI with orange accent buttons and a live expression display.
+![preview](image.png)
 
 ## Features
 
@@ -20,19 +20,13 @@ A desktop calculator built with Python and Tkinter. Dark-themed, keyboard-suppor
 
 No external libraries required — Tkinter ships with Python.
 
-```bash
-python calculator.py
-```
+![cmd](image-2.png)
 
 Requires Python 3.6+
 
 ## Project Structure
 
-```
-task1-calculator/
-├── calculator.py
-└── README.md
-```
+![struct](image-3.png)
 
 ## What I Learned
 
@@ -44,5 +38,6 @@ task1-calculator/
 
 ## Author
 
-**[Your Name]**  
-Python Development Intern — Synent Technologies
+**[Sehar Andleeb]**
+Undergraduate AI Engineer @UOK
+Python Development Intern at **Synent Technologies**
